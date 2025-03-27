@@ -1,0 +1,9 @@
+streamlit
+yfinance
+matplotlib.pyplot
+datetime
+requests
+re
+streamlit_autorefresh
+st_autorefresh 
+pytz
